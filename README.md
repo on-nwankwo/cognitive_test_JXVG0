@@ -1,2 +1,2 @@
 # cognitive_test_JXVG0
-approximate number system (ANS) test
+The Approximate Number System (ANS) Test
