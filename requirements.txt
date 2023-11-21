@@ -1,3 +1,4 @@
 pandas
 ipywidgets
 jupyter_ui_poll
+seaborn
