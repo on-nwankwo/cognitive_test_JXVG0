@@ -1,0 +1,3 @@
+pandas
+ipwidgets
+jupyter_ui_poll
